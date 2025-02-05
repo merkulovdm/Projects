@@ -1,5 +1,6 @@
 # Учебные проекты
-Данные проекты я выполнил в ходе обучения в Яндекс.Практикуме, по профессии "Аналитик данных" / I completed these projects during my studies at Yandex.Practicum, by profession "Data Analyst"
+Данные проекты я выполнил в ходе обучения в Яндекс.Практикуме, по профессии "Аналитик данных" / 
+I completed these projects during my studies at Yandex.Practicum, by profession "Data Analyst"
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
